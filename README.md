@@ -1,6 +1,8 @@
 # Stars-Fall2021
-- homework code references:
+- Homework code references:
   - [Tutorial on Computational Astrophysics](https://zingale.github.io/comp_astro_tutorial/intro.html)
-  
-- final project code references:
+
+- Final project:
+  - [HR-Diagram](https://github.com/xhf-F/Stars-Fall2021/blob/main/HR-diagram_GaiaDR2.ipynb)
+- Final project code references:
   - [Astronomical Data in Python](https://allendowney.github.io/AstronomicalData/01_query.html)
